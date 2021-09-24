@@ -1,4 +1,12 @@
-### Hi there 👋
+#### Hi, i am José Victor 👋🏽
+###### About me:
+- 👨‍💻 Computer science academic
+- 📚 Focused on backend development
+- 💻 I’m currently learning fastAPI
+- - ----
+##### STACKS
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/django-darkgreen?style=flat-square&logo=django) ![Django REST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat-square&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-white?style=flat-square&logo=fastapi) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
 
 <!--
 **josevictorp81/josevictorp81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
